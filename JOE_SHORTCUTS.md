@@ -1,11 +1,17 @@
 Notation Key 🗝:
 
 "cmd" - 'Command' ⌘ ()
+
 "alt" - 'Option' ⌥
+
 "ctrl" - 'Control' ^
+
 "fn" - 'Function'
+
 "shift" - 'shift' ⇧
+
 "tab" - ↹
+
 "left"/"right"/"up"/"down" - arrow keys
 
 ## OS X
